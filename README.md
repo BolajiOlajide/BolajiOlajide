@@ -1,7 +1,5 @@
 <div align="center">
 	<br>
-  <img src="main.svg" width="800" height="400">
+  <img src="https://raw.githubusercontent.com/BolajiOlajide/BolajiOlajide/master/main.svg">
 	<br>
 </div>
-
-[Credit](https://github.com/sindresorhus/css-in-readme-like-wat)
